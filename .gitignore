@@ -35,7 +35,7 @@ build/
 /.idea
 /.mvn
 /logs
-*.iml
+
 
 #OS
 .DS_Store
